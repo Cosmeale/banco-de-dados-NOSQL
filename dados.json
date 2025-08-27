@@ -1,0 +1,48 @@
+[
+    {
+        "produtos": {
+            "produto123":"BMW 325I",
+            "produto124":"BMW M3",
+            "produto125":"BMW X6",
+            "produto126":"BMW M4"
+           
+        }
+    },
+    {
+        "vendedor":{
+            "vend456":"lucas",
+            "vend457":"Rafael",
+            "vend458":"Tamara",
+            "vend459":"Damião",
+            "vend460":"shibata"
+        }
+    },
+    {
+        "preco":{
+            "preco789":"255000.00",
+            "preco790":"319900.00",
+            "preco791":"199000.00",
+            "preco792":"319900.00"
+
+        }
+    },
+    {
+        "imagemproduto":{
+            "imagem001":"<img src='img/bmw1.jpeg' width='300px'>",
+            "imagem002":"<img src='img/bmw2.jpeg' width='300px'>",
+            "imagem003":"<img src='img/bmw3.jpeg' width='300px'>",
+            "imagem004":"<img src='img/bmw5.jpeg' width='300px'>"
+            
+        }
+    },
+    {
+        "cliente":{
+            "cliente001":"Rodrigo",
+            "cliente002":"Rafael",
+            "cliente003":"Ana",
+            "cliente004":"Suellen"
+            
+        }
+    }
+    
+]
